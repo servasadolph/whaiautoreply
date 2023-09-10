@@ -52,7 +52,7 @@ col1, col2 = st.columns([3, 1])
 # Column 1: Image and Features
 with col1:
     # Display Image
-    st.image("whaiautoreply/bot.png", caption="", use_column_width=True)
+    st.image("servasadolph/whaiautoreply/blob/99e5cc328ae5c1d700b03b3aaaac060feafbe9d8/bot.PNG", caption="", use_column_width=True)
 
     # Functions of the App
     # Description of your App
